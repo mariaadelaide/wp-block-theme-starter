@@ -3,9 +3,17 @@ A WordPress block theme starter.
 
 Based on [Full Site Editing With WordPress](https://fullsiteediting.com) Guide by [@carolinan](https://github.com/carolinan).
 
+# Setup
+
+(List the requirements and setup steps for this repository.)
+
 # Usage
 
 ⚠️ **Note:** The development of the first version of this block theme starter is ongoing, and at the moment, not recommended to use. In any case, you are welcome to contribute to the starter theme development. Keep an eye on this project for the first usable version. For further questions you can contact the project maintainers listed at the end of this README.
+
+# Development
+
+(List the steps to perform development in this theme?)
 
 # Maintainers/Who to talk
 
